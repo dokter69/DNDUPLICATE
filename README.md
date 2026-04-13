@@ -20,10 +20,6 @@
 **DNDUPLICATE** adalah tools sederhana namun powerful untuk membersihkan dan mengelola file daftar domain.  
 Dibuat dengan pure Python — **tanpa perlu install library tambahan**, langsung pakai!
 
-<div align="center">
-  <img src="https://i.ibb.co.com/LzHgf747/photo-2026-04-14-03-18-25.jpg" alt="DNDUPLICATE Preview" width="600">
-</div>
-
 ---
 
 ## ✨ **Fitur Utama**
